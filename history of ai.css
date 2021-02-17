@@ -1,0 +1,9 @@
+body{background-image: url(ab.png);
+    background-repeat: no-repeat;
+    background-size: cover;}
+body{font-size: 125%;
+    color: white;}
+#container{font-size: 125%;}
+#container{width: 900px;
+    margin: 80px 150px;}
+a{color: yellow;}

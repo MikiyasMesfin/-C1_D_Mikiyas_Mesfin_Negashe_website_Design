@@ -1,0 +1,25 @@
+body{width: 900px;
+    margin: 50px 100px;}
+body{background-image: url(rob.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;}
+ .header{ background-image: url(background_robot.jpg);
+    background-size: cover;
+    padding-top: 50px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 450px;
+    }
+    .header{font-family: 'Times New Roman', Times, serif;
+        color: rgb(6, 6, 68);
+    }
+ .container{word-spacing: 10px;
+    line-height: 25px;
+   color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 125%;}
+a{color: yellow;}
+h1{font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bolder;
+}

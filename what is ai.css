@@ -1,0 +1,19 @@
+body{background-image: url(ab.png);
+background-repeat: no-repeat;
+background-size: cover;}
+body{font-size: 125%;}
+body{width: 1000px;
+    margin: 50px 100px;}
+.head{}
+#container{color:white;
+font-weight: 100;}
+#container{width: 900px;
+    margin: 70px 100px;}
+a{color: yellow;}
+#main{text-decoration: none;
+    text-indent: 45px;
+    text-transform: capitalize;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    word-spacing: 10px;
+    line-height: 25px;}

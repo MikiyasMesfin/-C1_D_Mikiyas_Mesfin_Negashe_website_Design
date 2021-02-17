@@ -1,0 +1,10 @@
+body{background-image: url(iStock-1207062970.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-transform: capitalize;}
+#font{font-size: 125%;}
+a{  color: yellow;}
+
+#container{width: 1000px;
+    margin: 50px 100px;}

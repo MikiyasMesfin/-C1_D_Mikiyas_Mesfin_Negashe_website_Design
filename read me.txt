@@ -1,0 +1,9 @@
+C1_D_Mikiyas_Mesfin_Negashe_web designing assignment
+My target groups are student and this page helps students in collage and high school to know what aritificial intelegance 
+means 
+to have full expirence 
+1.open index.html
+2. click home button 
+and chose any topic to read about 
+3.and to return  to the home page click to back 
+to compliet this  web designing assignment i used html and css in visual studio

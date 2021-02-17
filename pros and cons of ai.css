@@ -1,0 +1,10 @@
+body{width: 1000px;
+    margin: 50px 100px;}
+body{background-image: url(al.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+color: white;}
+.main{font-size: 150%;}
+.main2{font-size: 150%;}
+.summery{font-size: 150%;}
+a{color: yellow;}
